@@ -120,36 +120,6 @@ SHA256: 441b7a0c2a216af84ffc9112b86e654c2ff25f0fa4750e13ea6e9f4041a6a966
 SHA512: 51d2d985f830c26a77c44c69f030bfdea904715dbfc9c204700b1e68402b0fed40128db3221b86c6656eb4a9d669d4e55e28d9db03230b06c9aa7772442048f0
 Description: CuerdOS config updates, please don´t remove this package.
 
-Package: config-updates
-Priority: optional
-Section: misc
-Maintainer: CuerdOS Dev Team <cuerdoslinux@proton.me>
-Architecture: all
-Version: 1.0.2
-Depends: rsync, sed
-Filename: pool/bookworm/main/c/config-updates/config-updates_1.0.2_all.deb
-Size: 1080
-MD5sum: 768a83dff7a0547beccb4c3e4d5fb7af
-SHA1: bca3025fc957e49eddf763fc2ddbcf4008536b27
-SHA256: 42f6bc0aece560a243b82bd310b166826a6bb4739c5927f8782d2d9b0a080a0f
-SHA512: 08e3eab3396a9651611da4ecb83f408e02fc998c8458c047c4a1943a73187ccf2f2b17eb1f35a92602e72919cc41bd56a6baafc90defc4c6e16c0924497d5f7b
-Description: CuerdOS config updates, please don´t remove this package.
-
-Package: config-updates
-Priority: optional
-Section: misc
-Maintainer: CuerdOS Dev Team <cuerdoslinux@proton.me>
-Architecture: all
-Version: 1.0.3
-Depends: rsync, sed
-Filename: pool/bookworm/main/c/config-updates/config-updates_1.0.3_all.deb
-Size: 1092
-MD5sum: 5068068327e549149e4c045d0804ce24
-SHA1: cb1dd6f0227e19b9a3aa1c87d9c3419760e5db46
-SHA256: a11a2e1dc2fbcd7a08d71b1e4893e4703853b9a6a06343a7457446d105b0d656
-SHA512: 17c057c56d99536f29b97946d4a53cb0efac7ae132c384cd6475177f21dc87120659235689d8dae0860f57f0f54e838d0149230fe04ce29ce040e036bc572914
-Description: CuerdOS config updates, please don´t remove this package.
-
 Package: cuerdos-evergreen-gtk-theme
 Priority: optional
 Maintainer: CuerdOS Dev Team (cuerdoslinux@proton.me)
