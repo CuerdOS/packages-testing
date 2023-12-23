@@ -1,0 +1,49 @@
+Architectures: amd64
+Codename: bookworm
+Components: main non-free-firmware
+Date: Sun, 10 Dec 2023 17:43:24 +0000
+Description: Last updated: Sun, 10 Dec 2023 17:43:24 +0000
+Label: Debian
+Origin: Debian
+Suite: bookworm
+Version: 12
+MD5Sum:
+ b34c09deb3aadcffe907707d3b7ca50a              229 Release
+ 688382887016972a3907e1e05049a3b7           139968 main/binary-amd64/Packages
+ ad997ee89e45c1f31c953b58b0390abc            48221 main/binary-amd64/Packages.gz
+ 372fe5520a61bb7ae049579f6836ed2e              116 main/binary-amd64/Release
+ 40d8f9d43440654ff6f6855e18cde6a9           268977 main/debian-installer/binary-amd64/Packages
+ fe2860be4e5cbba0ca45fde09db3e383            86266 main/debian-installer/binary-amd64/Packages.gz
+ 7fa21a1590fdb70271df330528f05e9d           168703 non-free-firmware/binary-amd64/Packages
+ c43b7c71ccdbc3379fff0ff4af0c6840            30436 non-free-firmware/binary-amd64/Packages.gz
+ 2ce042a84181bfc6f38286ef044b8b66              129 non-free-firmware/binary-amd64/Release
+SHA1:
+ 0be8109eda133fa626d61919f50a6e1963163c42              229 Release
+ 15d6cb273f18fc97094181d4f1e8dc25d034facf           139968 main/binary-amd64/Packages
+ baa1bb8cd2ffcb70232b5b1c913ec94baf8bc9eb            48221 main/binary-amd64/Packages.gz
+ 53b6600424eaa4739cd5edf582d0078fa5647f84              116 main/binary-amd64/Release
+ b9dd7a8f21635cf0775a79060ea1b4650ff3e9cb           268977 main/debian-installer/binary-amd64/Packages
+ 19a829e7613d20394a01c5343f14f0fae8534b84            86266 main/debian-installer/binary-amd64/Packages.gz
+ 0e807ca36cbee88b612e49cb138b3b89abeb2bea           168703 non-free-firmware/binary-amd64/Packages
+ 73822d6178fb8591d1b5c6d3dd6c79851e67a5df            30436 non-free-firmware/binary-amd64/Packages.gz
+ 761144b47022b32e1a2d3663cdaa13186b1c9eee              129 non-free-firmware/binary-amd64/Release
+SHA256:
+ a3cc1e451838c1c642f80f869bffe423a8faa88930a989f52c1cc6ba6d04f3dd              229 Release
+ 769d2d1d4a17a3ab893881128a5462c54d1f92d315235c0bf12946439a44b953           139968 main/binary-amd64/Packages
+ 336c8633a52a099ea51cfd51b17103025c8764d4a913da94e154e9103f6a8af5            48221 main/binary-amd64/Packages.gz
+ 6019b993f73c99b0e7751485b607f7d3d68df8d44fa6fa8e84ae4c147e5fc95d              116 main/binary-amd64/Release
+ f6f771e5d8fe3345df79192d339b32549a51e6f1e5570b8829b15c5d2a0a7363           268977 main/debian-installer/binary-amd64/Packages
+ 9165d9e802b004e9be612a4f9c0eee26af3af38f1a5c36304b8952dba782d2a6            86266 main/debian-installer/binary-amd64/Packages.gz
+ 7ed84ca72c8d233b04543caaf23c4232880c6966111b395bd9727c0daf935590           168703 non-free-firmware/binary-amd64/Packages
+ fee712c614d40dc390cfba6549870d9ea2f20f9edb2fb7bb7fb2fe733a7eaf51            30436 non-free-firmware/binary-amd64/Packages.gz
+ 29c965f374063a6a4474209e45bb1f5959b0b26597603ede9e6387f19a06997c              129 non-free-firmware/binary-amd64/Release
+SHA512:
+ 037b228ddd6a6c666b27769623cc9bcfd84b49640809ba9e4a72e83e84bd525b04037e1bba8ce298a7e05ad6459f3091c5aa8171fc4733c8f7b1ea0572332ee2              229 Release
+ 51d08c1c1fac10addd05e0001734b09a679c4f7be1e1170e09ed4b4be1c81fc28254663e5ea5b95ffd2d4aa6d96f2fa2f47c20e49f180980777e11e59fcff6c2           139968 main/binary-amd64/Packages
+ a0b89e97bd72f786d7bb204ac624f4ac3f746c8564e38ee890a305436a339e32101824a80c02a00f3ca2e02200f1525eb85213830d8c84642e6f520efc033817            48221 main/binary-amd64/Packages.gz
+ fb66f021827084a4a660b6141acb26d949baa4ee999c25f52a0f9f10af02bd42ac18204f4ff0a27d8d1d034734fc3b2d5019804cca594557bb6fe262c8b93a6d              116 main/binary-amd64/Release
+ bb2d38b5379e9a206124ce341a6e0a889ae2c63d055d4d300b6dcc962eb653efab65a9bad9c226fab5d6f754314b4e94110bda8085e1ff9b937c2a8ecd86f1ac           268977 main/debian-installer/binary-amd64/Packages
+ 5c2680dafa262a8e395fa0099cb6980bcda2941c5f33ea25d6cd9506d3960b39291fb27d076889546213ed65e722a5be13495b145f92e5c7137209b824a6f0d3            86266 main/debian-installer/binary-amd64/Packages.gz
+ 6b661496d8379ab5a384a11050d04dc111a7eb7927eb52d0ce2b391b56b34628a14bfedcfc09d90826fad5ce2349e5e9c9346e8e376b94130b5ed2eacb16a87b           168703 non-free-firmware/binary-amd64/Packages
+ 9465e75d66bd445269d492b2b5a20e695da343c8bac3897b5800688958e41f5bf96f11490f4f9ad9a129c5218124efbd3fceea66833384a8d7f94c6b61f3e4fe            30436 non-free-firmware/binary-amd64/Packages.gz
+ dfb326f870d41153770058cb6a8bff879d06bc5fd71f89fd69bf0980cfc14058b9a77d1900447521b1583fddb48cdd8327fedeac02a61f01fb4c2a29a1abfdf2              129 non-free-firmware/binary-amd64/Release
