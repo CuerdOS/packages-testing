@@ -580,24 +580,6 @@ SHA512: a77ead9afac9e7bebeecdc869fa6869db9a62f261e034e79b3d1f121c496dddba6126b4b
 Description: ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 Homepage: https://github.com/armcord/armcord#readme
 
-Package: armcord
-Priority: optional
-Section: default
-Installed-Size: 257083
-Maintainer: smartfridge@vivaldi.net
-Architecture: amd64
-Version: 3.2.5
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: pool/bookworm/main/a/armcord/armcord_3.2.5_amd64.deb
-Size: 72387802
-MD5sum: 82b9ffa58d74c254fc5064b2103f8ee6
-SHA1: 1619b26974a7592ef25b11e043f30c36b8da24ae
-SHA256: eb39589b8c6e6291be060b2ae52f81fd9b7d4d10761999ee78a020db2c182c4e
-SHA512: 012dc57a59bda4c6439947c243fe7a816f43be3e7ba59711f9c3cacabd4095dfa52eba7beb3f926e0ac4fddb328c6381a9588c9bb1e207393fefe622eaa2580b
-Description: ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
-Homepage: https://github.com/armcord/armcord#readme
-
 Package: bat
 Priority: optional
 Section: utils
@@ -703,21 +685,21 @@ Description: The Linux kernel for x86_64 architecture (meta-package).
 Package: firefox
 Priority: optional
 Section: web
-Installed-Size: 240557
+Installed-Size: 242315
 Maintainer: Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com>
 Architecture: amd64
-Version: 120.0.1+build1-0ubuntu0.22.04.1~mt1
+Version: 121.0+build1-0ubuntu0.22.04.1~mt1
 Depends: lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.35), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.3.5), libgcc-s1 (>= 4.2), libgdk-pixbuf-2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 12), libx11-6, libx11-xcb1 (>= 2:1.7.5), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1
 Provides: gnome-www-browser, iceweasel, www-browser
 Recommends: xul-ext-ubufox, libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
 Replaces: kubuntu-firefox-installer
 Suggests: fonts-lyx
-Filename: pool/bookworm/main/f/firefox/firefox_120.0.1+build1-0ubuntu0.22.04.1~mt1_amd64.deb
-Size: 67898174
-MD5sum: 7770aa385051636daeeada69f555a678
-SHA1: 628139e22157358111bf640ed78a61eebb53861e
-SHA256: 0640894eeeac9ae2dc727a85126015f60ddf2416b87088fc2c72d298e7a84725
-SHA512: 2817eeb082096de551ea07563fb1b1aa841ab7fab21d53a317298ba59f823d508c0a147b71a38fd215c4971e69fbc9c222c8ada0936f137bf9ac68225c17f1d6
+Filename: pool/bookworm/main/f/firefox/firefox_121.0+build1-0ubuntu0.22.04.1~mt1_amd64.deb
+Size: 68275854
+MD5sum: 220cad944e194415d24a34552bd98825
+SHA1: e23519b866175a2f86bcb5c2eb6709197ff1dc2d
+SHA256: a10ed557fdc7db483d0a7ebd53b3aa9ecba662396ad1362223411ddf6e31bf9f
+SHA512: 8fcdf9a3389a266e8520020b30cbf0f9f3dd7ac7acdd4f57e285b6019eebfce48225b2a556afab2030ff73a81a6c3903ef7a2c40a90a5fe411db5ec08caf316d
 Description: Safe and easy web browser from Mozilla
  Firefox delivers safe, easy web browsing. A familiar user interface,
  enhanced security features including protection from online identity theft,
@@ -726,18 +708,18 @@ Description: Safe and easy web browser from Mozilla
 Package: firefox-locale-en
 Priority: optional
 Section: web
-Installed-Size: 1209
+Installed-Size: 1216
 Maintainer: Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com>
 Architecture: amd64
 Source: firefox
-Version: 120.0.1+build1-0ubuntu0.22.04.1~mt1
+Version: 121.0+build1-0ubuntu0.22.04.1~mt1
 Replaces: language-pack-en-base
-Filename: pool/bookworm/main/f/firefox/firefox-locale-en_120.0.1+build1-0ubuntu0.22.04.1~mt1_amd64.deb
-Size: 884006
-MD5sum: df09f31afea00efae50a5bbf1b6b579d
-SHA1: 69d1dd043f8b7baba13c816ef63fc6022995caf3
-SHA256: 1132b8f7c9c665fc4da10b58828017727199793bd3bce8a392e08f5ca710ef0d
-SHA512: 705eb14a1ae239f479f91ac0747e4503123a70aa3f9ca796b6a56fd23df2892a516b971794a2288ff4a910dfe90fbdb0a0687f4d2e192b75a1bdc27b0a7834fc
+Filename: pool/bookworm/main/f/firefox/firefox-locale-en_121.0+build1-0ubuntu0.22.04.1~mt1_amd64.deb
+Size: 894368
+MD5sum: d33dc114419ef3a89e7b62d51860f71f
+SHA1: 151d58a66b5725bd33436fe649db36e20db2167d
+SHA256: 4c938747001f7cdd4433effdce1981ff912021d97fc7a50e39c8064b995aadc2
+SHA512: 5b73fbf6c5d66e639be683a7c2900f9e5432af65cecd7d0a36f955e5d8e224c2a97e7510703b3b95983d514fda4ca40cbe3fec1f844fc2dc1b63736536931b49
 Description: English language pack for Firefox
  This package contains English translations and search plugins
  for Firefox
@@ -745,18 +727,18 @@ Description: English language pack for Firefox
 Package: firefox-locale-es
 Priority: optional
 Section: web
-Installed-Size: 2324
+Installed-Size: 2346
 Maintainer: Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com>
 Architecture: amd64
 Source: firefox
-Version: 120.0.1+build1-0ubuntu0.22.04.1~mt1
+Version: 121.0+build1-0ubuntu0.22.04.1~mt1
 Replaces: language-pack-es-base
-Filename: pool/bookworm/main/f/firefox/firefox-locale-es_120.0.1+build1-0ubuntu0.22.04.1~mt1_amd64.deb
-Size: 1975688
-MD5sum: e1baa47de5e6856f43218fd202b4b4ba
-SHA1: aa16fd2e6c830e44412a61075fa767dc25f2c663
-SHA256: e3f4a6ecd1c2e13ec5a4d9bda78897abb5304a0bfe3bfdcc2e553927c27cbfa1
-SHA512: 23b309087e56f3010837bbfad9a57bd0d722bc16b9225f9bbf1a2f5ffa13784df04492e640500094d2361834e063f7630b0051b9170cb3991a9eccbfc5c438e1
+Filename: pool/bookworm/main/f/firefox/firefox-locale-es_121.0+build1-0ubuntu0.22.04.1~mt1_amd64.deb
+Size: 1991872
+MD5sum: bdc693273554382cf7257bca4d9d8f1c
+SHA1: 48aa3c224a4fbae335d7b2813007a5f1e4caf95a
+SHA256: 72227c7485983475a56ac59eaa7c1137e7838b2809779ba62c1f6a22755e6454
+SHA512: dbfda64383faf26832106b943dcbbfb78e9395bcd19ce82a5bb0323e9eca9cfdbfa53f420af136995fab520c073b6722d2e323ba8d07d64a055420833008aaf4
 Description: Spanish; Castilian language pack for Firefox
  This package contains Spanish; Castilian translations and search plugins
  for Firefox
