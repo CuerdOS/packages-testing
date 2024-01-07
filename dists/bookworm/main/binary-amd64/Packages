@@ -419,11 +419,11 @@ Architecture: all
 Version: 1.1.0
 Depends: rsync, autotiling
 Filename: pool/bookworm/main/s/sway-config/sway-config_1.1.0_all.deb
-Size: 4096
-MD5sum: eed3be3edbc457f9812a2e702dd4b233
-SHA1: 405a7f30a28f278853253324a2ba78fd37ded014
-SHA256: b46c9b597716940798a3c8647c02fdc803860954d98c58a74167bd6177a443b2
-SHA512: d927992a02c9b92854db5c1295e54415a2a9ed3f0da34df2b1dcc1686ceedd31a9c7fbe0217d1aafa7a7b188b6a29e662ad8f84fd43b2039a76689832cd99424
+Size: 4100
+MD5sum: aee325d09eb516525df52992bb216b3c
+SHA1: 2de07e4d6c01264c417929c9b1220ae5eeac29e5
+SHA256: f9a06d83c4fa81e88b8c1f19b9b2a03a83bccab838e65ea0453caacabe08d50c
+SHA512: a533b222a6aa1ed09976469abd010cb1b55de43b4c156aaf1b9e36cb0baa8f55a54a91b4370d4125b28eec3432b588c89ebddda03569dac32f2a4c2217a9ed3e
 Description: CuerdOS Sway config
 
 Package: swaylock-fancy
