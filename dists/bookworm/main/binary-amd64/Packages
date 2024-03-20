@@ -770,6 +770,22 @@ SHA256: 958f78f0402ba9a7a283f06ee3cbb67d00d60f8f39331ced4bf505e6045d3532
 SHA512: 9ec1036357c042b2db747b44e25d931a83731c8bcaa273c5ee02997f4e3a47cd7fd6e55024ff6550f165814e5b4ba88c3d3f0b3a6bdaa27ae9f9fb9f58e16827
 Description: Mozilla Firefox
 
+Package: firefox
+Priority: optional
+Section: web
+Installed-Size: 248896
+Maintainer: Mozilla Releng <release@mozilla.com>
+Architecture: amd64
+Version: 124.0~build1
+Depends: libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.17), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.5.12), libfontconfig1 (>= 2.11), libfreetype6 (>= 2.3.5), libgcc1 (>= 1:4.1.1), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.37.0), libgtk-3-0 (>= 3.13.7), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 4.8), libx11-6, libx11-xcb1, libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.3-1), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1
+Filename: pool/bookworm/main/f/firefox/firefox_124.0~build1_amd64.deb
+Size: 68870156
+MD5sum: 10c122dde68d7960e62bc33b9df1aa8f
+SHA1: d42a7b0a371a665eb6fa1fb00099f35347f648e6
+SHA256: 67bc4760c1c4d16b9823ea78c6adea1c6d163dcf456b83ac6e227fd138530cac
+SHA512: 3d7a73c513265e8e04c2b337a9c88b328d1e491530a279b24c7664b5dd9298110c47279253fc37ac3ef3f16814d8bf810bb40ba751a1e5bdcc7ad05e5b442e11
+Description: Mozilla Firefox
+
 Package: github-desktop
 Priority: extra
 Section: GNOME;GTK;Development
